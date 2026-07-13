@@ -6,6 +6,7 @@
 
 ## X11の特徴
 ```mermaid
+flowchart TD
 id1["app"]
 id2["X Server"]
 ```
