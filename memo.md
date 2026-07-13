@@ -6,7 +6,7 @@
 
 ## X11の特徴
 ```mermaid
-flowchart TD
+diagram TD
 id1 --> id2
 id3 --> id2
 id4 --> id3
