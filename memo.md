@@ -16,3 +16,5 @@ id2["X Server"]
 id3["window manager"]
 id4["compositor"]
 ```
+1. アプリがXserverに依存
+2. 内部のwindow managerもXserverに依存
