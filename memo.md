@@ -6,10 +6,10 @@
 
 ## X11の特徴
 ```mermaid
-flowchart TD
+chart TD
 id1 --> id2
 id3 --> id2
-id4 --> id4
+id4 --> id3
 
 id1["app"]
 id2["X Server"]
