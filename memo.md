@@ -6,7 +6,6 @@
 
 ## X11の特徴
 ```mermaid
-
-
-[A] -> 
+id1["app"]
+id2["X Server"]
 ```
